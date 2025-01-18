@@ -265,11 +265,11 @@ if __name__ == "__main__":
 
     # Path of the camera pose XML, 
     # e.g. xml_filepath = "/Users/maolin/workspaces/mapping-360/cybergeo/hyd-metashape/1/camera.xml"
-    xml_filepath = "path_of_camera_xml"
+    xml_filepath = "D:\360\College.xml"
     
     # Path of image directory
     # e.g. input_images_directory = "Path of the directory of images"
-    input_images_directory = "/Users/maolin/workspaces/mapping-360/cybergeo/hyd-metashape/1/frame"
+    input_images_directory = "D:\360\Image seq"
     
     main(xml_filepath, input_images_directory)
 
